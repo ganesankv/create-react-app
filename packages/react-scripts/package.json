@@ -1,5 +1,5 @@
 {
-  "name": "react-scripts",
+  "name": "react-scripts-esm",
   "version": "4.0.1",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
@@ -12,7 +12,7 @@
     "node": "^10.12.0 || >=12.0.0"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/ganesankv/create-react-app/issues"
   },
   "files": [
     "bin",
