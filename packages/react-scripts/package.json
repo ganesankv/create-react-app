@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-esm",
-  "version": "4.0.10",
+  "version": "4.0.11",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -84,7 +84,7 @@
     "url-loader": "4.1.1",
     "webpack": "4.44.2",
     "webpack-dev-server": "git+https://github.com/ganesankv/webpack-dev-server#P_v3.11.2",
-    "webpack-manifest-plugin": "3.0.0",
+    "webpack-manifest-plugin": "2.2.0",
     "workbox-webpack-plugin": "5.1.4"
   },
   "devDependencies": {
