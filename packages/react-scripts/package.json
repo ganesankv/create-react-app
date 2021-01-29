@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-esm",
-  "version": "4.0.12",
+  "version": "4.0.13",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -46,7 +46,7 @@
     "dotenv-expand": "5.1.0",
     "eslint": "^7.11.0",
     "eslint-config-react-app": "^6.0.0",
-    "eslint-plugin-flowtype": "git+https://github.com/ganesankv/eslint-plugin-flowtype#P_v5.2.0",
+    "eslint-plugin-flowtype": "5.2.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jest": "git+https://github.com/ganesankv/eslint-plugin-jest#P_v24.1.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",
