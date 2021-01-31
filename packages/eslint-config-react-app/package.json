@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-react-app",
-  "version": "6.0.0",
+  "name": "eslint-config-react-app-esm",
+  "version": "6.0.1",
   "description": "ESLint configuration used by Create React App",
   "repository": {
     "type": "git",
