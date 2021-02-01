@@ -11,7 +11,7 @@
 const {
   dismissRuntimeErrors,
   reportRuntimeError,
-} = require('react-error-overlay');
+} = require('react-error-overlay-esm');
 
 module.exports = {
   clearRuntimeErrors: dismissRuntimeErrors,
