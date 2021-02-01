@@ -34,7 +34,7 @@ verifyTypeScriptSetup();
 const fs = require('fs');
 const chalk = require('react-dev-utils-esm/chalk');
 const webpack = require('webpack');
-const WebpackDevServer = require('webpack-dev-server');
+const WebpackDevServer = require('webpack-dev-server-esm');
 const clearConsole = require('react-dev-utils-esm/clearConsole');
 const checkRequiredFiles = require('react-dev-utils-esm/checkRequiredFiles');
 const {
